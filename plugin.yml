@@ -1,0 +1,9 @@
+name: Wands
+author: Bobcatsss
+version: 0.1
+api-version: 1.16
+depend: [GUIShop, Vault, BentoBox]
+main: me.bobcatsss.wands.Wands
+commands:
+  wands:
+    description: Main plugin command.
